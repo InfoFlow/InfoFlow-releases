@@ -83,7 +83,7 @@ Understanding the landscape helps clarify InfoFlow's unique value.
 
 ## Get Started:
 
-*   **Downloads:** Find the latest desktop releases here on the [Releases Page](https://github.com/USERNAME/InfoFlow-releases/releases) *(<- Update this link!)*.
+*   **Downloads:** Find the latest desktop releases here on the [Releases Page](https://github.com/InfoFlow/InfoFlow-releases/releases) *(<- Update this link!)*.
 *   **Website:** [InfoFlow.app](https://www.infoflow.app)
 *   **Feedback:** Love it? Hate it? Have an idea? Tell us! (Sidebar > Feedback in the app).
 

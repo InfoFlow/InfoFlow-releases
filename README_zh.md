@@ -81,7 +81,7 @@
 
 ## 开始使用：
 
-*   **下载：** 在 [发布页面](https://github.com/USERNAME/InfoFlow-releases/releases) *(<- 请更新此链接！)* 查找最新的桌面版。
+*   **下载：** 在 [发布页面](https://github.com/InfoFlow/InfoFlow-releases/releases) *(<- 请更新此链接！)* 查找最新的桌面版。
 *   **网站：** [InfoFlow.app](https://www.infoflow.app)
 *   **反馈：** 喜欢？讨厌？有想法？告诉我们！（应用内：侧边栏 > 反馈）。
 
