@@ -1,5 +1,7 @@
 # InfoFlow Releases - Your Knowledge Command Center
 
+[中文版 README](./README_zh.md)
+
 **(Repository for Desktop App Releases of [InfoFlow.app](https://www.infoflow.app))**
 
 ---
